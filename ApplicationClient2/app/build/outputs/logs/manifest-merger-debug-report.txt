@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9925dfb1b77ee120ee28280a197c0853\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3f0e10d849a219722f2d8899cf68c0b0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\1c1116b916618c5037891b111b4126f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b2ff8d448f155bbe533efdd250b71ad0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\bcb0f52f50448030c6f22bf7a9993400\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\170467b2884281fca5cffb934cd42806\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c77aa87dce795216e4ed7f25449472b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\243360ec6af41f7c09e9c57838856137\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c1fd79a7d34b0b2eb1f46369659971c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5b58c82d0c3f2609e5eec6e6aca5b455\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\16c6dbd21d001fdda3c7ffb85d26663b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\0814ffc0557c6699987bfae4a2cde0ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ce09285c684e82b852fbd7487be3602a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e66fd73606dda8c3ce3c3ff162fa688d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\ce1ed6655289568be8e757c0c21815f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6633f74b6c3a546ca034cd3bd95c455d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0e6654939418a436d33dc2ecdfd769a3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\0d3c3d00324949c40840f88c8aa3137c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c40e63cb2c63ac7c176d6b37c857ed65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4cccea89816042877dafb015f54e3042\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\25fb70c6420f05d5a0444998bc8d37cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0e3adc6425f3bebf77cdfff2611e84ae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\da7f44671a82fc9c9fc7be5a4eff5646\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\eaa800e27ee8c9eae2deb63ab3314153\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\347df65f0f020f3927e1c267ba841ada\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dbbdffba1791963eec37158001b0fd52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f59b186b56aea65ac34a4902a74e4683\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#ansdroid.permission.INTERENTET
+ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:5:22-67
+application
+ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3f0e10d849a219722f2d8899cf68c0b0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3f0e10d849a219722f2d8899cf68c0b0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6633f74b6c3a546ca034cd3bd95c455d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6633f74b6c3a546ca034cd3bd95c455d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0e6654939418a436d33dc2ecdfd769a3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0e6654939418a436d33dc2ecdfd769a3\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6633f74b6c3a546ca034cd3bd95c455d\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.google.applicationclient2.MainActivity
+ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9925dfb1b77ee120ee28280a197c0853\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9925dfb1b77ee120ee28280a197c0853\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3f0e10d849a219722f2d8899cf68c0b0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3f0e10d849a219722f2d8899cf68c0b0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\1c1116b916618c5037891b111b4126f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\1c1116b916618c5037891b111b4126f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b2ff8d448f155bbe533efdd250b71ad0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b2ff8d448f155bbe533efdd250b71ad0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\bcb0f52f50448030c6f22bf7a9993400\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\bcb0f52f50448030c6f22bf7a9993400\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\170467b2884281fca5cffb934cd42806\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\170467b2884281fca5cffb934cd42806\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c77aa87dce795216e4ed7f25449472b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c77aa87dce795216e4ed7f25449472b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\243360ec6af41f7c09e9c57838856137\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\243360ec6af41f7c09e9c57838856137\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c1fd79a7d34b0b2eb1f46369659971c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c1fd79a7d34b0b2eb1f46369659971c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5b58c82d0c3f2609e5eec6e6aca5b455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5b58c82d0c3f2609e5eec6e6aca5b455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\16c6dbd21d001fdda3c7ffb85d26663b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\16c6dbd21d001fdda3c7ffb85d26663b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\0814ffc0557c6699987bfae4a2cde0ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\0814ffc0557c6699987bfae4a2cde0ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ce09285c684e82b852fbd7487be3602a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ce09285c684e82b852fbd7487be3602a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e66fd73606dda8c3ce3c3ff162fa688d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e66fd73606dda8c3ce3c3ff162fa688d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\ce1ed6655289568be8e757c0c21815f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\ce1ed6655289568be8e757c0c21815f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6633f74b6c3a546ca034cd3bd95c455d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6633f74b6c3a546ca034cd3bd95c455d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0e6654939418a436d33dc2ecdfd769a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0e6654939418a436d33dc2ecdfd769a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\0d3c3d00324949c40840f88c8aa3137c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\0d3c3d00324949c40840f88c8aa3137c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c40e63cb2c63ac7c176d6b37c857ed65\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c40e63cb2c63ac7c176d6b37c857ed65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4cccea89816042877dafb015f54e3042\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4cccea89816042877dafb015f54e3042\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\25fb70c6420f05d5a0444998bc8d37cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\25fb70c6420f05d5a0444998bc8d37cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0e3adc6425f3bebf77cdfff2611e84ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0e3adc6425f3bebf77cdfff2611e84ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\da7f44671a82fc9c9fc7be5a4eff5646\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\da7f44671a82fc9c9fc7be5a4eff5646\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\eaa800e27ee8c9eae2deb63ab3314153\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\eaa800e27ee8c9eae2deb63ab3314153\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\347df65f0f020f3927e1c267ba841ada\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\347df65f0f020f3927e1c267ba841ada\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dbbdffba1791963eec37158001b0fd52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dbbdffba1791963eec37158001b0fd52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f59b186b56aea65ac34a4902a74e4683\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\YOON\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f59b186b56aea65ac34a4902a74e4683\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YOON\ApplicationClient2\app\src\main\AndroidManifest.xml
